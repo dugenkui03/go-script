@@ -1,9 +1,3 @@
 # go-script
-
-# 设计
-
-对外暴露的接口尽量通过 一个包名 露出，降低使用成本
-
-
-宗旨永远是简单使用，内部随便自己怎么进行实验。
-
+正例和反例
+<img width="951" alt="image" src="https://github.com/dugenkui03/go-script/assets/18216266/a947b6c2-b403-4f84-8075-6c4c74563795">
